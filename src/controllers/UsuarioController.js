@@ -1,7 +1,5 @@
 const Usuario = require('../models/Usuario')
-// const Planta = require("../models/Plantas")
-// const Animal = require("../models/Animais")
-// const { verify } = require('jsonwebtoken');
+const { verify } = require('jsonwebtoken');
 
 class UsuarioController {
 
